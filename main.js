@@ -20,7 +20,7 @@ const GALLERY = [
   { src: "Messenger_creation_FFA323AB-13E2-43A2-AC12-CEBB34012C34.jpg", caption: "Golden hours 🌅" },
   { src: "Messenger_creation_07772622-06CE-4503-8A36-954ED597E6CE.jpg", caption: "MWUAHHHHHHHH Dyan tayo sa hotel na yan soon hmmm" },
   { src: "Messenger_creation_248CC72A-9647-4836-B347-2C2310FA9673.jpg", caption: "Chinita My Honey" },
-  { src: "IMG_20260411_225223_453.jpg", caption: "Making memories 🌿" },
+  { src: "Messenger_creation_2A2105E1-3A2A-4B46-80F3-5AA5E8656B5A.jpg", caption: "Fuck sarap mo " },
 ];
 /* ══════════════════════════════════════════════════════ */
 
